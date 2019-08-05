@@ -2,12 +2,12 @@ import re
 
 ENCLOSING_REPLACEMENT_CHARACTER = '+'
 ENCLOSED_REGEX = rf'\{ENCLOSING_REPLACEMENT_CHARACTER}([a-zA-Z_.0-9]*)\{ENCLOSING_REPLACEMENT_CHARACTER}'
-OFFTOPIC_USERNAME = 'uztelecom_chat'
-ONTOPIC_USERNAME = 'uztelecom_topic'
+OFFTOPIC_USERNAME = 'YUdsa1pHVn VJR1JsWTI5 a1pYST0☠️🏴‍'
+ONTOPIC_USERNAME = 'YUdsa1pHVn VJR1JsWTI5 a1pYST0☠️🏴‍'
 OFFTOPIC_CHAT_ID = '@' + OFFTOPIC_USERNAME
 TELEGRAM_SUPERSCRIPT = 'ᵀᴱᴸᴱᴳᴿᴬᴹ'
-FAQ_CHANNEL_ID = '@uztelecom'
-SELF_BOT_NAME = 'bkzd_bot'
+FAQ_CHANNEL_ID = '@hackers_books'
+SELF_BOT_NAME = 'GR_assistant_bot'
 ONTOPIC_RULES = """ Условия действия правил чата
 
 1.1. Пользователи, заходя в чат, принимают на себя добровольные обязательства беспрекословно соблюдать нижеперечисленные правил.
